@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @G00dzero
-- 👀 I’m interested in coding and software engineering and development
+- 👀 I’m interested in coding, software engineering and development
 - 🌱 I’m currently learning software development and hoping to hone and improve my skills
 - 💞️ I’m looking to collaborate on all projects either for fun or business 
 - 📫 How to reach me here on Github @G00dzero or my eMail @goodnessefe01@icloud.com
